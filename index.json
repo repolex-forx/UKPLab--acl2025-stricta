@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-stricta",
+  "versions": [
+    {
+      "commit": "1c74d73fab737335ad3d1a827f3324909c09a5f6",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:32:56.709053+00:00"
+    }
+  ]
+}
